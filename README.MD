@@ -26,4 +26,6 @@
   string bbb = "HelloWorld";
   Console.WriteLine(bbb);
 ```
-[我的网站](https://www.baidu.com)
+[跳转到百度](https://www.baidu.com)
+
+![我的图像](1.png)
